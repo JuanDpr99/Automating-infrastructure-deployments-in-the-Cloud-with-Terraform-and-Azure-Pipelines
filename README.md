@@ -8,7 +8,7 @@
 # Antes de iniciar
 ## Crea un nuevo proyecto en Azure Devops 
 
-Ingresar al siguiente [Link](https://azuredevopsdemogenerator.azurewebsites.net/environment/createproject)
+Ingresar al siguiente [Link](https://azuredevopsdemogenerator.azurewebsites.net/?TemplateId=77382&Name=Terraform)
 
 ![image](https://github.com/JuanDpr99/Automating-infrastructure-deployments-in-the-Cloud-with-Terraform-and-Azure-Pipelines/assets/77819591/a7bce872-9df5-4b05-8326-fa472cf952b7)
 
@@ -49,3 +49,23 @@ Buscar en la tienda y descargar
 webapp.tf es un archivo de configuración de Terraform. Terraform utiliza su propio formato de archivo, llamado HCL (Hashicorp Configuration Language). Esto es muy similar a YAML.
 
 En este ejemplo, queremos implementar un grupo de recursos de Azure, un plan de servicio de aplicaciones y un servicio de aplicaciones necesarios para implementar el sitio web. Y hemos agregado el archivo Terraform (Infraestructura como código) al repositorio de control de código fuente en su proyecto Azure DevOps que puede implementar los recursos de Azure necesarios.
+
+
+## Exercise 2: Build your application using Azure CI Pipeline
+
+![image](https://github.com/JuanDpr99/Automating-infrastructure-deployments-in-the-Cloud-with-Terraform-and-Azure-Pipelines/assets/77819591/b34bd4ee-bb8a-47ac-98cb-dd117849880f)
+
+
+![image](https://github.com/JuanDpr99/Automating-infrastructure-deployments-in-the-Cloud-with-Terraform-and-Azure-Pipelines/assets/77819591/c60d5779-3ef7-4e21-8c34-f9161e4bd67b)
+
+![image](https://github.com/JuanDpr99/Automating-infrastructure-deployments-in-the-Cloud-with-Terraform-and-Azure-Pipelines/assets/77819591/381396d6-4d69-476a-8b51-b6577df0b3b6)
+
+
+LLenar el siguiente [formulario](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5zsR558741CrNi6q8iTpANURUhKMVA3WE4wMFhHRExTVlpET1BEMlZSTCQlQCN0PWcu) 
+
+![image](https://github.com/JuanDpr99/Automating-infrastructure-deployments-in-the-Cloud-with-Terraform-and-Azure-Pipelines/assets/77819591/3f5adf7f-efb2-45d8-8eba-00a456a5a90f)
+
+
+
+
+
